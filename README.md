@@ -18,4 +18,4 @@ source-material/   # the author's original writing, kept verbatim
 
 ## Status
 
-Early design. The format and group size are decided. [R001](research/R001-what-research-applies.md) surveys which research applies and derives a first timeline. No session materials exist yet.
+Early design. Format, group size, pilot audience, timeline, and the reset → plan → behavior sequence are decided ([DECISIONS.md](DECISIONS.md)). [R001](research/R001-what-research-applies.md) covers timing and follow-up; [R002](research/R002-mindset-before-behavior.md) covers the mindset shift. No session materials exist yet. The next blocker is the core of the reset, which is author canon.

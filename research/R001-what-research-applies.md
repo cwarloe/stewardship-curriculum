@@ -120,16 +120,16 @@ What **doesn't** carry over from NADF: the NICE role mapping (R007), packet-capt
 
 ---
 
-## Proposed timeline [DERIVED] — not adopted
+## Timeline [DERIVED] — adopted as ADR-006
 
-For the author to accept, change, or reject. Every number traces to a section above.
+Every number traces to a section above. **The follow-up is five contacts over 12 weeks, not a weekly meeting.** The weekly part is each man's own chosen behavior, which runs on his schedule. The program adds three short check-ins early, when they matter most (§2), and two group touchpoints later. For how the mindset shift fits into this sequence, see [R002](R002-mindset-before-behavior.md).
 
 | When | What | Basis |
 |---|---|---|
-| Week 0 | Online kickoff (~90 min). Each person predicts where their time and money go, then starts the logs | §1, §7 predict-then-check |
+| Week 0 | Online kickoff (~90 min). Each person predicts where his time, money, and gifts go, then starts the logs | §1, §7 predict-then-check |
 | Weeks 0–4 | Time log (one ordinary week), spending log (a full month), gifts inventory including two outside views | §1 (about a month of data), §5 (own data before teaching) |
 | Weeks 4–5 | Weekend. Friday evening: foundation. Saturday: time, treasure, talents, closing. **Saturday ends with written if-then plans** | §1 (optimum about 2.5–3 weeks; a month of spending data pushes it to 4–5), §3 implementation intentions |
-| Weekend + 1, 2, 3 weeks | Short check-ins (call, message, or partner) with progress **recorded and reported** | §2 (early repetitions matter most), §3 monitoring and boosters |
+| Weekend + 1, 2, 3 weeks | Short check-ins (~10 minutes, with his pair partner or by message) with progress **recorded and reported** | §2 (early repetitions matter most), §3 monitoring and boosters |
 | Weekend + ~6 and ~12 weeks | Group touchpoints; re-run a shortened time and spending log and compare with the pre-work | §2 (past the 66-day average), §7 verification tracker |
 | Weekend + ~6–12 months | `[OPTION]` Reunion or re-log | §5 (decay at ~20 months); nothing sets this date precisely |
 

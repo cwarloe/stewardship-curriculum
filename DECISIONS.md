@@ -38,6 +38,41 @@ Short records. What was decided, why, and what would reopen it.
 
 **Reopen when:** the pilot has run and there is something to learn from it.
 
+## ADR-006 — Timeline adopted
+
+**Decided 2026-09-29 by the author**, adopting the timeline derived in [R001](research/R001-what-research-applies.md):
+- online kickoff
+- **4–5 weeks** of pre-work
+- the weekend
+- **12 weeks** of follow-up
+
+**Follow-up load:** five contacts, not twelve weekly meetings.
+- Short pair check-ins at weeks 1, 2 and 3
+- Group touchpoints at weeks 6 and 12
+- A shortened re-log at week 12
+
+The weekly habit is each man's own chosen behavior, not a program meeting.
+
+**The author's concern, recorded:** 12 weeks is a big ask. He accepted it because the habit research (R001 §2) puts the average at about 66 days. **Reopen if** pilot men drop out of the follow-up. Cut contacts before cutting length: the early check-ins carry the most weight.
+
+## ADR-007 — Sequence: reset, then plan, then behavior
+
+**Decided 2026-09-29 by the author.** The seminar produces a change in perspective first, which makes the men motivated learners and actors. That change then leads to an action plan and changed behavior. The focus is stewardship of **time, treasure, and talents** together, **not money first**.
+
+**How the research shapes it [DERIVED], from [R002](research/R002-mindset-before-behavior.md):**
+- **A reset alone moves behavior only modestly** (the intention–behavior gap). Saturday must end in if-then plans the same weekend.
+- **The pre-work logs are the trigger for the reset,** not just preparation. The gap between what a man predicts and what he logs is his own disorienting dilemma, the experience that doesn't fit how he's been seeing things.
+- **Invite; don't shame.** Motivation from guilt doesn't last. Each man chooses his own commitments.
+- **The reset is an identity shift** (steward, not owner). That makes hard weeks read as meaningful rather than as failure.
+
+**The author's refinement (2026-09-29):**
+- Full buy-in isn't required by the weekend.
+- **The new identity is the big goal and the foundation.** But the men can take the actions before they fully hold it, and being among men who think this way makes it feel normal.
+- Research agrees that identity and behavior reinforce each other: acting is one of the ways identity forms ([R002](research/R002-mindset-before-behavior.md) §6).
+- **So the design asks for action whether or not the reset has fully landed yet.**
+
+**Author canon, still open:** what the reset actually says, meaning the theology of ownership and stewardship identity. `[UNKNOWN — author]`
+
 ---
 
 ## Open decisions
@@ -47,4 +82,10 @@ Things the author needs to decide. Nothing downstream should assume an answer.
 - **Position on giving.** Tithe as a standard, a starting point, or not prescribed? This shapes the treasure session. `[UNKNOWN — author]`
 - **Does the mind map survive?** [`outline/curriculum-mindmap.md`](outline/curriculum-mindmap.md) predates the seminar format and has seven Act II branches for roughly four weekend sessions.
 - **Follow-up owner.** Who runs the check-ins: the facilitator or pairs of men? This decides whether the boosters in R001 actually happen.
-- **Proposed timeline.** R001 derives one (a 4–5 week gap, and dense early follow-up through about 12 weeks). The author hasn't adopted it yet.
+- **The core of the reset.** What should a man believe differently by the end of Friday night? This is the theological center of the seminar, and everything on Saturday hangs from it.
+
+  **Author's brainstorm draft (2026-09-29), verbatim, not yet locked:**
+  > "everything I have belongs to God. He is loaned it to me and asked me to be a good steward of it. That includes my time my treasure and my talents. None of it is mine. Because this is who I am I'm seeking to figure out what does it mean for me to steward these resources? How shall I invest them? How do I spend my money how do I spend my time how do I use my gifts?"
+
+  Structure as drafted: **belief** (God owns everything; it is on loan) → **identity** ("this is who I am") → **three open questions** (money, time, gifts). The questions line up with Saturday's three sessions. `[AUTHOR — draft]`
+- **Weekend date.** `[OPTION]` Just before a natural fresh start (the start of a month, a new year, or a season), so the plans begin on a landmark ([R002](research/R002-mindset-before-behavior.md) §5).
