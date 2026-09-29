@@ -56,6 +56,7 @@
 - **Saturday ends with written if-then plans**, not a general "decision" or a vague commitment. This is the strongest single mechanism in this record.
 - **The follow-up asks people to record and report**, to a partner, spouse, or the group. A private reflection prompt is the weaker form.
 - **Couples and partners are part of the environment people go home to.** Blume's open-skill finding says this support matters. Pairing people for follow-up is supported, even though no study tested it in this setting.
+- **For the single-men pilot (ADR-005):** there's no spouse at home, so the group is the support environment. Pair the men with each other for the follow-up, and set the pairs before the weekend ends.
 - **Keep boosters light and early** (a call or message). Expect a modest effect, not a rescue.
 
 > Confidence: **Moderate–High** for implementation intentions and monitoring, both large meta-analyses across domains. **Moderate** for training transfer and boosters.
@@ -69,7 +70,7 @@
 **Applied [DERIVED].**
 - **5–8 can run as one discussion group.** At 9–10, split into two groups for the discussion segments and bring everyone together for teaching and closing.
 - **Plan for the dominant speaker at any size**: go around the circle, write before speaking, have pairs report back. The larger the group, the more this matters.
-- **Couples are an unstudied variable here.** Spouses may speak for each other or defer. Consider splitting couples across sub-groups for some discussions and keeping them together for the treasure planning. `[OPTION]`
+- **Later runs, not the pilot:** couples are an unstudied variable here. Spouses may speak for each other or defer. Consider splitting couples across sub-groups for some discussions and keeping them together for the treasure planning. `[OPTION]`
 
 > Confidence: **Moderate.** One strong experiment, not replicated in this search, and a lab task rather than a formation conversation.
 

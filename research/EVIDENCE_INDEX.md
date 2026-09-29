@@ -10,5 +10,5 @@ Statuses: `candidate`, `assessed`, `superseded`, `retracted`.
 
 - **Read the ⚑ sources in full** (especially Cepeda 2008's ratio, Lally's range, and Kaiser et al.'s decay results) before any number goes in front of participants.
 - **Religious-education search** (ATLA, *Religious Education*, *Christian Education Journal*) for any outcome study of stewardship, discipleship, or retreat-plus-follow-up formats.
-- **Couples in group discussion**: whether spouses in the same group change participation. None was found.
+- **Couples in group discussion**: whether spouses in the same group change participation. None was found. Deferred until after the pilot (ADR-005).
 - **Online kickoff**: whether a live online first meeting affects cohesion compared with in person. Not searched yet.
