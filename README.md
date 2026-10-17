@@ -1,16 +1,27 @@
-# Stewardship Curriculum
+# Stewardship: Living as God's Stewards
 
-A structured curriculum for "Stewardship: Living as God’s Stewards".
-Includes:
-- Act I–III mind-maps in Mermaid format
-- Source essays and lesson frameworks
-- Issue templates for curriculum requests
+A small-group seminar on stewarding time, treasure, and talents under God's ownership.
 
-## Contents
-- `curriculum-mindmap.md` — Mermaid diagram of the three-act structure
-- `essays/` — source essays (e.g. secular work as full-time service)
-- `.github/ISSUE_TEMPLATE/*` — Issue templates for lesson requests and typos
+**Format** ([ADR-001](DECISIONS.md#adr-001--format-kickoff--between-work--weekend--follow-up)): an online kickoff, work done at home between sessions, an in-person weekend (Friday evening and Saturday), then structured follow-up. **Group size:** 5–10 people ([ADR-002](DECISIONS.md#adr-002--group-size-510)). **Pilot:** single men only; mixed groups and couples come in later runs ([ADR-005](DECISIONS.md#adr-005--pilot-audience-single-men)).
+
+**Research-driven** ([ADR-003](DECISIONS.md#adr-003--research-sets-the-timelines)): timelines and session design come from the evidence in [`research/`](research/), with its confidence stated. Theology is the author's, never the machine's ([ADR-004](DECISIONS.md#adr-004--theology-is-author-canon)).
+
+## Layout
+
+```
+AGENTS.md          # playbook for anyone (human or LLM) working in this repo
+DECISIONS.md       # what's been decided, and what's still open
+outline/           # the original Act I–III mind map (draft, predates the seminar format)
+research/          # protocol, evidence index, research records
+source-material/   # the author's original writing, kept verbatim
+.github/ISSUE_TEMPLATE/  # issue templates: lesson requests and bug/typo reports
+```
+
+## Status
+
+Early design. Format, group size, pilot audience, timeline, and the reset → plan → behavior sequence are decided ([DECISIONS.md](DECISIONS.md)). [R001](research/R001-what-research-applies.md) covers timing and follow-up; [R002](research/R002-mindset-before-behavior.md) covers the mindset shift. No session materials exist yet. The next blocker is the core of the reset, which is author canon.
 
 ## Notes
-- A fuller seminar/research restructure lives on branch `ccr-f8abd407-9in4yp` and is not yet on `main`.
-- CI workflow is not configured on `main` yet (placeholder previously only lived inside a zip archive).
+
+- File a lesson idea or a typo through the issue templates in `.github/ISSUE_TEMPLATE/`.
+- No CI workflow is configured yet.
