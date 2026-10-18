@@ -11,6 +11,7 @@ A small-group seminar on stewarding time, treasure, and talents under God's owne
 ```
 AGENTS.md          # playbook for anyone (human or LLM) working in this repo
 DECISIONS.md       # what's been decided, and what's still open
+curriculum/        # session guides, participant worksheets, and onboarding tools
 outline/           # the original Act I–III mind map (draft, predates the seminar format)
 research/          # protocol, evidence index, research records
 source-material/   # the author's original writing, kept verbatim
@@ -19,7 +20,7 @@ source-material/   # the author's original writing, kept verbatim
 
 ## Status
 
-Early design. Format, group size, pilot audience, timeline, and the reset → plan → behavior sequence are decided ([DECISIONS.md](DECISIONS.md)). [R001](research/R001-what-research-applies.md) covers timing and follow-up; [R002](research/R002-mindset-before-behavior.md) covers the mindset shift. No session materials exist yet. The next blocker is the core of the reset, which is author canon.
+Active curriculum drafting. Onboarding, qualification model, and pre-retreat runway adopted ([ADR-008](DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection)). The post-service lunch guide, 3-door menu, pre-retreat sprints, and Friday night reset session are drafted in [`curriculum/`](curriculum/). The next step is drafting the Saturday deep-dive sessions (Time, Treasure, Talent) and the 12-week pair booster guides.
 
 ## Notes
 

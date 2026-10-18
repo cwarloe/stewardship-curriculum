@@ -65,13 +65,24 @@ The weekly habit is each man's own chosen behavior, not a program meeting.
 - **Invite; don't shame.** Motivation from guilt doesn't last. Each man chooses his own commitments.
 - **The reset is an identity shift** (steward, not owner). That makes hard weeks read as meaningful rather than as failure.
 
-**The author's refinement (2026-09-29):**
-- Full buy-in isn't required by the weekend.
-- **The new identity is the big goal and the foundation.** But the men can take the actions before they fully hold it, and being among men who think this way makes it feel normal.
-- Research agrees that identity and behavior reinforce each other: acting is one of the ways identity forms ([R002](research/R002-mindset-before-behavior.md) §6).
-- **So the design asks for action whether or not the reset has fully landed yet.**
+**Author's refinement (2026-10-18): "Light a candle" (embodied action before heart understanding)**
+- Like lighting a candle to enter an ancient practice, taking concrete, physical action creates movement before full intellectual or spiritual comprehension arrives.
+- The 3-week pre-retreat sprints are small behavioral acts ("lighting the candle"). The retreat weekend is where the men sit down to ask: *What did that mean? Who am I? Who owns this?*
+- Action precedes reflection; reflection transforms the heart and anchors identity.
 
-**Author canon, still open:** what the reset actually says, meaning the theology of ownership and stewardship identity. `[UNKNOWN — author]`
+## ADR-008 — Onboarding: Post-service lunch, "Light a Candle" sprints, and earned self-selection
+
+**Decided 2026-10-18 by the author.** 
+
+1. **The Kickoff is a Post-Service Lunch:** Rather than a cold online call, the kickoff is an informal 35-minute post-service lunch at church (pizza/tacos). Men are already present, hungry, and in a shared space.
+2. **The "No Hostages" Doctrine (Autonomous Motivation):** We do not take sign-ups at lunch. Men cannot be coerced by parents, pastors, or guilt (controlled motivation). "Hostages don't form habits." We seek honest, hungry drifters who want order and purpose.
+3. **The 45-Minute Quick-Win Gate (Earned Self-Selection, per `mr-life-manager` ADR-015):** The lunch hands men a 3-Door Menu (Time, Treasure, Talent). Each man chooses **one** acute pain point to tackle in 45 minutes or less before Tuesday night. Completing this single action is his ticket to claim one of the 6–8 seats in the weekend cohort.
+4. **The 3-Week Progressive Runway ("Light a Candle" Sprints):**
+   - **Week 1:** Choose Door 1 (Primary Pain) → 45-min win → Qualifies for Cohort.
+   - **Week 2:** Breadth Sprint in Domain B (20–30 min win) → Reclaim margin / eliminate leaks.
+   - **Week 3:** Breadth Sprint in Domain C (20–30 min win) → Assemble personal 3-T baseline dossier.
+   - **Week 4:** The In-Person Weekend Retreat (Heart, theology, identity reset, strategic 90-day plan).
+   - This replaces 4–5 weeks of grueling prospective daily logging with three satisfying, bite-sized wins while preserving the required spacing.
 
 ---
 
