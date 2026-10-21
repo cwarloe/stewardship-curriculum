@@ -6,7 +6,7 @@ Read this before working in the repo. [`DECISIONS.md`](DECISIONS.md) wins if any
 
 ## What this is
 
-A small-group seminar (5–10; the pilot is up to 8 single men): a lunch after church as the kickoff, three weeks of short tasks, an in-person weekend, and 12 weeks of follow-up ([ADR-008](DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection)). The goal is **changed practice** in how people steward time, treasure, and talents, not just knowledge about stewardship. The research is clear that knowledge alone rarely changes behavior ([R001](research/R001-what-research-applies.md)).
+A small-group seminar (pilot: 4–8 single adults, men and women, up to 10 if that many qualify): a lunch after church as the kickoff, three weeks of short tasks, an in-person weekend, and 12 weeks of follow-up ([ADR-008](DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection)). The goal is **changed practice** in how people steward time, treasure, and talents, not just knowledge about stewardship. The research is clear that knowledge alone rarely changes behavior ([R001](research/R001-what-research-applies.md)).
 
 ## The three defaults that matter most
 
@@ -19,9 +19,10 @@ Tag assertions in design docs: `[AUTHOR]` (the author stated it) / `[DRAFT]` (wr
 ## Design rules carried over from sibling projects
 
 - **Practice before teaching.** The home work produces the person's own evidence (their week, their spending, their gifts) before the weekend interprets it.
-- **Predict, then check.** Before any task, the person writes down what he expects to find. (From NADF R006: retrieval with feedback built in.)
+- **Predict, then check.** Before any task, the person writes down what they expect to find. (From NADF R006: retrieval with feedback built in.)
 - **Every story or illustration carries a point, or it comes out.** Seductive details reduce learning while making material feel better. (From NADF's training-design skill.)
 - **Worked example, guided practice, the person's own work.** A case study shows the move, discussion practices it, and the person's own plan is the evidence.
+- **Principles and practices, not requirements** ([ADR-009](DECISIONS.md#adr-009--principles-and-practices-not-requirements)). Invite people to examine their own lives, read, think, and pray, then choose their own practice. No quotas, such as a set number of hours or a fixed percentage.
 - **Don't add process.** No review gates or registers nobody will run. Put a lesson where the next person will trip over it.
 
 ## Research workflow
