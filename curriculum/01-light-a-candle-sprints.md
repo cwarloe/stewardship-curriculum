@@ -2,6 +2,7 @@
 
 **Objective:** Equip each man with active movement and a completed **Personal 3-T Baseline Dossier** (Time, Treasure, Talent) before walking into Friday evening's retreat.  
 **Ethos:** *"Light a candle."* These are not academic homework assignments. They are short, embodied behavioral actions (20–30 minutes) that create lived experience before the retreat interprets their meaning.  
+**Status:** `[DRAFT]`. The "Sabbath & Rest Block" assumes a position the author hasn't settled yet (see the open decisions in DECISIONS.md).  
 **Governing ADRs:** [ADR-006](../DECISIONS.md#adr-006--timeline-adopted), [ADR-007](../DECISIONS.md#adr-007--sequence-reset-then-plan-then-behavior), [ADR-008](../DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection).
 
 ---
@@ -29,7 +30,7 @@ Week 4: In-Person Weekend Retreat (Friday Night Reset & Saturday Sessions)
 - **The Facilitator Action:**
   - Facilitator confirms: *"Seat reserved for the weekend seminar."*
   - Add the participant to the private Cohort Group Chat (Signal / WhatsApp / SMS).
-  - Post a welcome prompt: *"Welcome brothers. Every man in this thread took action this week. We have 8 men confirmed. Next step drops Monday morning."*
+  - Post a welcome prompt: *"Welcome brothers. Every man in this thread took action this week. We have [N] men confirmed. Next step drops Monday morning."*
 
 ---
 

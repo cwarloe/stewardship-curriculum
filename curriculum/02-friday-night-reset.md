@@ -40,7 +40,7 @@
 ---
 
 ## 3. The Core Reset: Ownership vs. Stewardship (7:15 – 8:00 PM)
-*Theological anchor: [AUTHOR canon, DECISIONS.md draft & source-material]*
+*Theological anchor: `[DRAFT]`, built from the author's brainstorm in DECISIONS.md and from source-material. Not final until the author approves it.*
 
 ### A. The Cultural Illusion: The Myth of Ownership
 - Draw a simple diagram on a whiteboard:
@@ -66,7 +66,7 @@ THE WORLD'S ILLUSION:                   THE KINGDOM REALITY:
 - **1 Corinthians 4:7:** *"What do you have that you did not receive? And if you did receive it, why do you boast as if you had not received it?"*
 - **Matthew 25:14–15 (The Talents):** The master entrusts *his own* possessions to his servants, each according to his ability.
 
-### C. The Author's Canon: The Reset Statement
+### C. The Reset Statement `[DRAFT]`
 *Read clearly and deliberately to the room:*
 
 > *"Everything you have belongs to God. He has loaned it to you and asked you to be a faithful steward of it. That includes your time, your treasure, and your talents. None of it is yours.*

@@ -2,6 +2,8 @@
 
 Short records. What was decided, why, and what would reopen it.
 
+**These are defaults, not laws.** Each decision describes the default behavior. Overriding one is fine when there's a compelling practical, operational, or ministry reason. Write the reason down where the override happens, so the next person can see why the default didn't apply.
+
 ## ADR-001 — Format: kickoff → between-work → weekend → follow-up
 
 **Decided 2026-09-29 by the author.** An initial meeting (possibly live online), work done at home between sessions, an in-person weekend seminar (Friday night and Saturday) with extended conversation, then some form of follow-up.
@@ -10,9 +12,11 @@ Short records. What was decided, why, and what would reopen it.
 
 **Reopen if:** follow-up proves impossible to sustain. Without it, the evidence says the weekend's effects largely fade.
 
+**Partly superseded by ADR-008 (2026-10-18):** the kickoff is an in-person lunch after church, not an online meeting. The rest of the format stands.
+
 ## ADR-002 — Group size 5–10
 
-**Decided 2026-09-29 by the author.** Minimum about 5, typical maximum 8–9, and up to 10 only when couples are included. Never larger.
+**Decided 2026-09-29 by the author.** Minimum about 5, typical maximum 8–9, and up to 10 only when couples are included. Larger is outside the default and needs a compelling reason.
 
 **For the pilot:** the maximum is 8–9, since the allowance for 10 applied only to couples and the pilot has none (ADR-005).
 
@@ -24,7 +28,13 @@ Short records. What was decided, why, and what would reopen it.
 
 ## ADR-004 — Theology is author canon
 
-**Decided 2026-09-29**, carried over from novel-builder. No doctrinal position, Scripture application, or stance on giving is supplied by an LLM. See [AGENTS.md](AGENTS.md).
+**Decided 2026-09-29; softened 2026-10-21 by the author.**
+
+**Default:** doctrine, Scripture choices and applications, and positions on giving, work, and rest come from the author.
+
+**Override:** when the author asks for a draft, an LLM may write theological content. It's marked `[DRAFT]` and isn't final until the author approves it. Example: the expanded reset statement in [`curriculum/02-friday-night-reset.md`](curriculum/02-friday-night-reset.md) §3C was drafted on request.
+
+See [AGENTS.md](AGENTS.md).
 
 ## ADR-005 — Pilot audience: single men
 
@@ -55,13 +65,15 @@ The weekly habit is each man's own chosen behavior, not a program meeting.
 
 **The author's concern, recorded:** 12 weeks is a big ask. He accepted it because the habit research (R001 §2) puts the average at about 66 days. **Reopen if** pilot men drop out of the follow-up. Cut contacts before cutting length: the early check-ins carry the most weight.
 
+**Partly superseded by ADR-008 (2026-10-18):** the pre-work is now the lunch, then three short weekly tasks, with the weekend in week 4. That replaces the 4–5 weeks of logging. The kickoff-to-weekend gap is about 4 weeks, still in R001's acceptable range. The month of spending data that pushed the gap longer now comes from the bank's 30-day history instead of live logging. **The 12-week follow-up stands.**
+
 ## ADR-007 — Sequence: reset, then plan, then behavior
 
 **Decided 2026-09-29 by the author.** The seminar produces a change in perspective first, which makes the men motivated learners and actors. That change then leads to an action plan and changed behavior. The focus is stewardship of **time, treasure, and talents** together, **not money first**.
 
 **How the research shapes it [DERIVED], from [R002](research/R002-mindset-before-behavior.md):**
 - **A reset alone moves behavior only modestly** (the intention–behavior gap). Saturday must end in if-then plans the same weekend.
-- **The pre-work logs are the trigger for the reset,** not just preparation. The gap between what a man predicts and what he logs is his own disorienting dilemma, the experience that doesn't fit how he's been seeing things.
+- **The pre-work's predict-then-check steps are the trigger for the reset,** not just preparation. Every door and every weekly task in ADR-008 has one. The gap between what a man predicts and what he finds is his own disorienting dilemma, the experience that doesn't fit how he's been seeing things.
 - **Invite; don't shame.** Motivation from guilt doesn't last. Each man chooses his own commitments.
 - **The reset is an identity shift** (steward, not owner). That makes hard weeks read as meaningful rather than as failure.
 
@@ -99,4 +111,8 @@ Things the author needs to decide. Nothing downstream should assume an answer.
   > "everything I have belongs to God. He is loaned it to me and asked me to be a good steward of it. That includes my time my treasure and my talents. None of it is mine. Because this is who I am I'm seeking to figure out what does it mean for me to steward these resources? How shall I invest them? How do I spend my money how do I spend my time how do I use my gifts?"
 
   Structure as drafted: **belief** (God owns everything; it is on loan) → **identity** ("this is who I am") → **three open questions** (money, time, gifts). The questions line up with Saturday's three sessions. `[AUTHOR — draft]`
+
+  An expanded version, drafted at the author's request, is in [`curriculum/02-friday-night-reset.md`](curriculum/02-friday-night-reset.md) §3C. `[DRAFT]`
+- **Seat range.** ADR-002 allows up to 8–9 for the pilot, but ADR-008 says 6–8 seats, and the curriculum files say 5–8 with a cap of 8. What is the minimum, and what happens if fewer men complete the 45-minute task?
+- **Sabbath as a default.** The Time door and the Week 2 Time task both assign a "Sabbath/rest block," and the baseline summary sheet asks about a Sabbath rhythm. That treats a Sabbath practice as settled. Is it, or should rest be one option among several?
 - **Weekend date.** `[OPTION]` Just before a natural fresh start (the start of a month, a new year, or a season), so the plans begin on a landmark ([R002](research/R002-mindset-before-behavior.md) §5).

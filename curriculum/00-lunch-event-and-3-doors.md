@@ -3,6 +3,7 @@
 **Format:** 35-minute informal lunch immediately following Sunday church service.  
 **Audience:** Single men (target: 10–15 attending lunch; 5–8 will self-select into the cohort).  
 **Cost/Supplies:** Simple lunch (pizza, tacos, or burritos), drinks, printed 1-page "3-Door Menu" handouts, pens.  
+**Status:** `[DRAFT]`. The speaking points and the Scripture in Door 3 are drafts for the author to review (ADR-004).  
 **Governing ADR:** [ADR-008](../DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection).
 
 ---

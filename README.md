@@ -2,9 +2,9 @@
 
 A small-group seminar on stewarding time, treasure, and talents under God's ownership.
 
-**Format** ([ADR-001](DECISIONS.md#adr-001--format-kickoff--between-work--weekend--follow-up)): an online kickoff, work done at home between sessions, an in-person weekend (Friday evening and Saturday), then structured follow-up. **Group size:** 5–10 people ([ADR-002](DECISIONS.md#adr-002--group-size-510)). **Pilot:** single men only; mixed groups and couples come in later runs ([ADR-005](DECISIONS.md#adr-005--pilot-audience-single-men)).
+**Format** ([ADR-001](DECISIONS.md#adr-001--format-kickoff--between-work--weekend--follow-up)): a lunch after church as the kickoff, three weeks of short tasks at home, an in-person weekend (Friday evening and Saturday), then 12 weeks of follow-up ([ADR-008](DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection)). **Group size:** 5–10 people ([ADR-002](DECISIONS.md#adr-002--group-size-510)). **Pilot:** single men only; mixed groups and couples come in later runs ([ADR-005](DECISIONS.md#adr-005--pilot-audience-single-men)).
 
-**Research-driven** ([ADR-003](DECISIONS.md#adr-003--research-sets-the-timelines)): timelines and session design come from the evidence in [`research/`](research/), with its confidence stated. Theology is the author's, never the machine's ([ADR-004](DECISIONS.md#adr-004--theology-is-author-canon)).
+**Research-driven** ([ADR-003](DECISIONS.md#adr-003--research-sets-the-timelines)): timelines and session design come from the evidence in [`research/`](research/), with its confidence stated. By default, theology comes from the author; drafts written on request are marked `[DRAFT]` ([ADR-004](DECISIONS.md#adr-004--theology-is-author-canon)).
 
 ## Layout
 
