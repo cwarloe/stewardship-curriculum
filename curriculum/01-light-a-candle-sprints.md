@@ -2,7 +2,7 @@
 
 **Objective:** Equip each participant with active movement and a completed **Personal 3-T Baseline Dossier** (Time, Treasure, Talent) before walking into Friday evening's retreat.  
 **Ethos:** *"Light a candle."* These are not academic homework assignments. They are short, embodied behavioral actions (20–30 minutes) that create lived experience before the retreat interprets their meaning.  
-**Status:** `[DRAFT]`. The rest wording follows the proposed approach to Sabbath in DECISIONS.md (open decision), and isn't settled.  
+**Status:** `[DRAFT]` wording. The approach to rest is settled ([ADR-010](../DECISIONS.md#adr-010--sabbath-and-rest-a-principle-with-each-participant-choosing-the-practice)); the exact wording still needs the author's review.  
 **Governing ADRs:** [ADR-006](../DECISIONS.md#adr-006--timeline-adopted), [ADR-007](../DECISIONS.md#adr-007--sequence-reset-then-plan-then-behavior), [ADR-008](../DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection).
 
 ---

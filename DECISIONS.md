@@ -106,6 +106,19 @@ The weekly habit is each participant's own chosen behavior, not a program meetin
 
 **Applies to:** every session, worksheet, and the follow-up. When a draft prescribes a number, ask whether it's an example or a requirement. Examples are fine; requirements need a compelling reason (see the note at the top of this file).
 
+## ADR-010 — Sabbath and rest: a principle, with each participant choosing the practice
+
+**Decided 2026-10-21 by the author** (option A of the three proposed). Rest is part of stewarding **time**, and follows ADR-009:
+- **Present rest as received, not as a test.** It's a principle, not a quota. No prescribed hours or day.
+- **Participants examine their own rhythm first,** with a predict-then-check question: "When did I last fully stop?"
+- **Read, discuss, pray.** Participants read a small set of passages on rest, discuss what they notice, and pray. The passages are the author's to choose (open below).
+- **Each participant chooses one practice of their own,** such as a weekly stretch of rest, an evening without screens, worship, or unhurried time with people.
+- **The facilitator can say honestly that Christians hold different views on Sabbath,** without settling that debate in the room.
+
+**Rejected:** B, a weekly Sabbath day offered as an invitation (leans prescriptive), and C, no rest content before Saturday (loses the predict-then-check).
+
+**Already reflected in:** the Week 2 Time task and the baseline summary sheet in [`curriculum/01-light-a-candle-sprints.md`](curriculum/01-light-a-candle-sprints.md).
+
 ---
 
 ## Open decisions
@@ -124,15 +137,5 @@ Things the author needs to decide. Nothing downstream should assume an answer.
 
   An expanded version, drafted at the author's request, is in [`curriculum/02-friday-night-reset.md`](curriculum/02-friday-night-reset.md) §3C. `[DRAFT]`
 - **Fewer than 4 qualify.** Run the weekend anyway, postpone it, or reopen the lunch invitation? (The seat range itself is settled: ADR-002 and ADR-008.)
-- **Sabbath and rest.** Still open: the author isn't sure where to head with it. It falls under Time. Proposed approaches, all consistent with ADR-009: `[DRAFT]`
-  - **A. Rest as a principle; each participant chooses the practice** *(recommended)*.
-    - Present rest as part of stewarding time: something received, not a test to pass.
-    - Participants look at their own rhythm. Predict-then-check: "When did I last fully stop?"
-    - They read a small set of passages on rest, discuss what they notice, and pray.
-    - Each chooses one practice of their own: a weekly stretch of rest, an evening without screens, worship, unhurried time with people, and so on. No hours or day are prescribed.
-    - The facilitator can say honestly that Christians hold different views on Sabbath, without settling the debate in the room. The passages are the author's to choose.
-  - **B. A weekly Sabbath day, offered as an invitation.** Present one shape of a weekly day of rest with concrete examples, and invite participants to try it during the follow-up. This is clearer, but it leans toward the prescriptive.
-  - **C. No rest content in the pre-work.** Take rest up only in the Saturday Time session, after participants have their data. This is simpler, but it misses the chance for a predict-then-check on rest.
-
-  The current drafts follow **A**: the Week 2 Time task asks "what would real rest look like for me?", and the baseline sheet asks when they last fully stopped.
+- **Passages on rest.** Which Scripture participants read on rest (ADR-010). `[UNKNOWN — author]`
 - **Weekend date.** `[OPTION]` Just before a natural fresh start (the start of a month, a new year, or a season), so the plans begin on a landmark ([R002](research/R002-mindset-before-behavior.md) §5).
