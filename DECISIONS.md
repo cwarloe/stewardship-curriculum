@@ -18,7 +18,7 @@ Short records. What was decided, why, and what would reopen it.
 
 **Decided 2026-09-29 by the author.** Minimum about 5, typical maximum 8–9, and up to 10 only when couples are included. Larger is outside the default and needs a compelling reason.
 
-**Revised 2026-10-21 by the author:** the pilot runs with **4–8 participants**, and **up to 10** if that many complete the qualifying task (ADR-008). At 9–10, split the discussion segments as below.
+**Revised 2026-10-21 by the author:** the pilot runs with **4–8 participants**, and **up to 10** if that many complete the qualifying task (ADR-008). At 9–10, split the discussion segments as below. **Minimum:** the weekend waits until at least 4 have qualified.
 
 **Implication [DERIVED]:** at 9–10, discussion segments should split into two sub-groups. At 5, group discussion behaves like dialogue; at 10, like serial monologue dominated by the loudest voice ([R001](research/R001-what-research-applies.md) §4).
 
@@ -40,7 +40,7 @@ See [AGENTS.md](AGENTS.md).
 
 **Decided 2026-09-29 by the author; revised 2026-10-21.** The pilot is open to **single adults, men and women**. (Originally men only. The author: some women may join the pilot, "and that's a good thing.") All materials use "participants," not "men." Couples are expected in later runs.
 
-`[DERIVED — confirm]` "Single" is kept from the original decision, because the reason below still applies. The author hasn't restated it.
+**Confirmed 2026-10-21:** the pilot is aimed at **single adults**. It stays open to single parents and married people, but the author expects they're less likely to feel the need the seminar addresses. Materials are written for single adults and don't exclude anyone.
 
 **Why:** It's simpler for the pilot. One person's budget, one person's calendar, one person's gifts, with no household negotiation inside each of the three areas. It also matches the voice of the essay in `source-material/`.
 
@@ -125,9 +125,9 @@ The weekly habit is each participant's own chosen behavior, not a program meetin
 
 Things the author needs to decide. Nothing downstream should assume an answer.
 
-- **Position on giving.** Tithe as a standard, a starting point, or not prescribed? This shapes the treasure session. `[UNKNOWN — author]`
+- **Giving.** `[AUTHOR]` People should give (2026-10-21). Still open: how the seminar handles *how much*. `[DERIVED — confirm]` ADR-009 already rules out a required percentage, so the likely answer is that giving is expected, the amount is each person's to pray through, and the tithe can be named as one historic reference point rather than a rule.
 - **Does the mind map survive?** [`outline/curriculum-mindmap.md`](outline/curriculum-mindmap.md) predates the seminar format and has seven Act II branches for roughly four weekend sessions.
-- **Follow-up owner.** Who runs the check-ins: the facilitator or pairs of participants? This decides whether the boosters in R001 actually happen.
+- **Follow-up format.** `[AUTHOR]` The author facilitates the follow-up himself, probably over Zoom (2026-10-21). Still open: are the week 1–3 check-ins short group Zoom calls, or does he also pair participants to report to each other between calls? Research favors reporting progress to someone (R001 §3); either way does that.
 - **The core of the reset.** What should a participant believe differently by the end of Friday night? This is the theological center of the seminar, and everything on Saturday hangs from it.
 
   **Author's brainstorm draft (2026-09-29), verbatim, not yet locked:**
@@ -136,6 +136,5 @@ Things the author needs to decide. Nothing downstream should assume an answer.
   Structure as drafted: **belief** (God owns everything; it is on loan) → **identity** ("this is who I am") → **three open questions** (money, time, gifts). The questions line up with Saturday's three sessions. `[AUTHOR — draft]`
 
   An expanded version, drafted at the author's request, is in [`curriculum/02-friday-night-reset.md`](curriculum/02-friday-night-reset.md) §3C. `[DRAFT]`
-- **Fewer than 4 qualify.** Run the weekend anyway, postpone it, or reopen the lunch invitation? (The seat range itself is settled: ADR-002 and ADR-008.)
 - **Passages on rest.** Which Scripture participants read on rest (ADR-010). `[UNKNOWN — author]`
-- **Weekend date.** `[OPTION]` Just before a natural fresh start (the start of a month, a new year, or a season), so the plans begin on a landmark ([R002](research/R002-mindset-before-behavior.md) §5).
+- **Weekend date.** Not confirmed yet (2026-10-21). `[OPTION]` Just before a natural fresh start (the start of a month, a new year, or a season), so the plans begin on a landmark ([R002](research/R002-mindset-before-behavior.md) §5).
