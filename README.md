@@ -15,6 +15,7 @@ curriculum/        # session guides, participant worksheets, and onboarding tool
 outline/           # the original Act I–III mind map (draft, predates the seminar format)
 research/          # protocol, evidence index, research records
 source-material/   # the author's original writing, kept verbatim
+scripts/           # repo checks (the link checker CI runs)
 .github/ISSUE_TEMPLATE/  # issue templates: lesson requests and bug/typo reports
 ```
 
@@ -25,4 +26,4 @@ Active curriculum drafting. Onboarding, qualification model, and pre-retreat run
 ## Notes
 
 - File a lesson idea or a typo through the issue templates in `.github/ISSUE_TEMPLATE/`.
-- No CI workflow is configured yet.
+- CI checks that local Markdown links and `#anchors` resolve. Run `python3 scripts/check_links.py` locally before pushing.
