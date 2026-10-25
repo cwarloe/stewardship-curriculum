@@ -4,49 +4,75 @@
   <meta charset="UTF-8">
   <title>BBP Outline - Stewardship: Living as God's Stewards</title>
   <style>
+    /* Theme: blue is the default. Switch with <body data-theme="green|orange|purple|gray"> */
+    :root {
+      --accent: #1f5f9e;        /* strong: act bars, outer border */
+      --accent-mid: #bcd4ec;    /* key idea cells */
+      --accent-soft: #dce9f6;   /* section headers */
+      --accent-faint: #eef4fa;  /* explanation cells */
+      --accent-ink: #12365c;    /* text on tints */
+      --line: #8fb0d1;
+    }
+    body[data-theme="green"]  { --accent:#2e7d4f; --accent-mid:#bfe0cc; --accent-soft:#dcefe3; --accent-faint:#eff7f2; --accent-ink:#17482c; --line:#93c1a5; }
+    body[data-theme="orange"] { --accent:#c25e12; --accent-mid:#f5d2b0; --accent-soft:#fbe6d2; --accent-faint:#fdf3ea; --accent-ink:#6b3207; --line:#e0b48a; }
+    body[data-theme="purple"] { --accent:#6b46a8; --accent-mid:#d9cbee; --accent-soft:#e8dff6; --accent-faint:#f5f0fb; --accent-ink:#3a2266; --line:#b9a4dc; }
+    body[data-theme="gray"]   { --accent:#4a4f57; --accent-mid:#d0d3d8; --accent-soft:#e4e6e9; --accent-faint:#f3f4f5; --accent-ink:#23262b; --line:#a5a9b0; }
+
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
       background-color: white;
+      color: #1b1b1b;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
     }
+
+    h1, h2 { color: var(--accent-ink); }
 
     .bbp-table {
       width: 100%;
       border-collapse: collapse;
-      border: 2px solid black;
+      border: 2px solid var(--accent);
       margin-bottom: 20px;
       table-layout: fixed;
     }
 
     .bbp-table td {
-      border: 1px solid black;
+      border: 1px solid var(--line);
       padding: 12px;
       vertical-align: top;
       font-size: 11pt;
     }
 
     .section-header {
-      background-color: #e8e8e8;
+      background-color: var(--accent-soft);
+      color: var(--accent-ink);
       font-weight: bold;
       text-align: center;
     }
 
     .act-header {
-      background-color: #d0d0d0;
+      background-color: var(--accent);
+      color: #fff;
       font-weight: bold;
       font-size: 12pt;
       text-align: center;
     }
 
     .key-idea-cell {
-      background-color: #f0f0f0;
+      background-color: var(--accent-mid);
+      color: var(--accent-ink);
       font-weight: bold;
       vertical-align: middle;
     }
 
     .explanation-cell {
-      background-color: #f8f8f8;
+      background-color: var(--accent-faint);
       vertical-align: middle;
+    }
+
+    .transition-cell {
+      background-color: #fff;
     }
 
     .footer-text {
@@ -60,12 +86,12 @@
       font-size: 9pt;
       font-weight: normal;
       text-transform: uppercase;
-      color: #555;
+      color: var(--accent);
       margin-bottom: 4px;
     }
   </style>
 </head>
-<body>
+<body data-theme="blue">
   <h1>Beyond Bullet Points Outline</h1>
   <h2>Stewardship: Living as God's Stewards</h2>
   <h3>Audience: facilitators and contributors drafting the seminar</h3>
@@ -102,8 +128,7 @@
       <td>A seminar grounded in evidence and ready to pilot.</td>
     </tr>
 
-    <tr><td colspan="3" class="section-header">TRANSITION 1</td></tr>
-    <tr><td colspan="3">The seminar is being drafted step by step. Three ideas explain it: the seminar itself, how research and decisions guide it, and how the sessions come together.</td></tr>
+    <tr><td colspan="3" class="transition-cell"><span class="label">Transition 1</span>The seminar is being drafted step by step. Three ideas explain it: the seminar itself, how research and decisions guide it, and how the sessions come together.</td></tr>
 
     <tr><td colspan="3" class="act-header">ACT 2: DEVELOP THE ACTION</td></tr>
     <tr>
@@ -140,8 +165,7 @@
       <td>Mixed groups and couples later</td>
     </tr>
 
-    <tr><td colspan="3" class="section-header">TRANSITION 2</td></tr>
-    <tr><td colspan="3">Restate: a small-group stewardship seminar. Relate: its design must rest on evidence and clear decisions. Introduce: how research and decisions work here.</td></tr>
+    <tr><td colspan="3" class="transition-cell"><span class="label">Transition 2</span>The seminar helps small groups steward their time, treasure, and talents. For the design to hold up, let's look at how research and recorded decisions guide it.</td></tr>
 
     <tr>
       <td rowspan="9" class="key-idea-cell"><span class="label">Key Idea 2</span>Research and Recorded Decisions Guide the Design</td><td rowspan="3" class="explanation-cell"><span class="label">Explanation 1</span><strong>Research-Driven:</strong> evidence sets the plan</td><td>Timelines come from evidence</td>
@@ -171,8 +195,7 @@
       <td>Do only what the author asked</td>
     </tr>
 
-    <tr><td colspan="3" class="section-header">TRANSITION 3</td></tr>
-    <tr><td colspan="3">Restate: research and recorded decisions guide the design. Relate: guidance only matters if sessions get written. Introduce: the sessions drafted so far.</td></tr>
+    <tr><td colspan="3" class="transition-cell"><span class="label">Transition 3</span>Evidence and clear decisions keep the design honest. Now let's see how the sessions themselves are coming together, step by step.</td></tr>
 
     <tr>
       <td rowspan="9" class="key-idea-cell"><span class="label">Key Idea 3</span>Sessions Come Together Step by Step</td><td rowspan="3" class="explanation-cell"><span class="label">Explanation 1</span><strong>Onboarding Path:</strong> the way in</td><td>Post-service lunch guide</td>
@@ -219,7 +242,7 @@
 
     <tr>
       <td colspan="3" class="footer-text">
-        Beyond Bullet Points Story Template, &copy; 2007 Cliff Atkinson<br>
+        Based on the Beyond Bullet Points story template by Cliff Atkinson<br>
         Stewardship: Living as God's Stewards
       </td>
     </tr>
