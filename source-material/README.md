@@ -1,6 +1,6 @@
 # Source material
 
-Original texts the author has collected or written. **Verbatim, never edited**, not even for spelling. Session materials may quote or excerpt these files; they don't change them.
+Original texts the author has collected or written. **Verbatim by default**, including spelling. A clear conversion error can be fixed if the change is noted here. Session materials may quote or excerpt these files; they don't change them.
 
 | File | What it is | Origin |
 |---|---|---|

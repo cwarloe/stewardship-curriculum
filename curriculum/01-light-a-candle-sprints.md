@@ -1,7 +1,8 @@
 # The Pre-Retreat Runway: "Light a Candle" Sprints (Weeks 1–3)
 
-**Objective:** Equip each man with active movement and a completed **Personal 3-T Baseline Dossier** (Time, Treasure, Talent) before walking into Friday evening's retreat.  
+**Objective:** Equip each participant with active movement and a completed **Personal 3-T Baseline Dossier** (Time, Treasure, Talent) before walking into Friday evening's retreat.  
 **Ethos:** *"Light a candle."* These are not academic homework assignments. They are short, embodied behavioral actions (20–30 minutes) that create lived experience before the retreat interprets their meaning.  
+**Status:** `[DRAFT]` wording. The approach to rest is settled ([ADR-010](../DECISIONS.md#adr-010--sabbath-and-rest-a-principle-with-each-participant-choosing-the-practice)); the exact wording still needs the author's review.  
 **Governing ADRs:** [ADR-006](../DECISIONS.md#adr-006--timeline-adopted), [ADR-007](../DECISIONS.md#adr-007--sequence-reset-then-plan-then-behavior), [ADR-008](../DECISIONS.md#adr-008--onboarding-post-service-lunch-light-a-candle-sprints-and-earned-self-selection).
 
 ---
@@ -10,7 +11,7 @@
 
 ```
 Week 0 (Sunday): Lunch Event → Choose Door 1
-Week 1: Door 1 Completed (45 min) → Cohort Confirmed (5–8 Men)
+Week 1: Door 1 Completed (45 min) → Cohort Confirmed (4–8 participants, up to 10)
 Week 2: Sprint 2 — Second Domain (25 min) + Cohort Group Chat Check-in
 Week 3: Sprint 3 — Third Domain (25 min) + Assemble 3-T Dossier
 Week 4: In-Person Weekend Retreat (Friday Night Reset & Saturday Sessions)
@@ -29,14 +30,14 @@ Week 4: In-Person Weekend Retreat (Friday Night Reset & Saturday Sessions)
 - **The Facilitator Action:**
   - Facilitator confirms: *"Seat reserved for the weekend seminar."*
   - Add the participant to the private Cohort Group Chat (Signal / WhatsApp / SMS).
-  - Post a welcome prompt: *"Welcome brothers. Every man in this thread took action this week. We have 8 men confirmed. Next step drops Monday morning."*
+  - Post a welcome prompt: *"Welcome, everyone. Every person in this thread took action this week. We have [N] participants confirmed. Next step drops Monday morning."*
 
 ---
 
 ## Week 2: Breadth Sprint 1 (25 Minutes)
 
 *Prompt sent to group chat on Monday morning:*
-> *"Men, last week you lit a candle in your primary pain point. This week, we expand our borders. If you did Treasure last week, take on Time. If you did Time, take on Treasure. If you did Talent, pick either one. Spend 25 minutes before Thursday night."*
+> *"Last week you lit a candle in your primary pain point. This week, we expand our borders. If you did Treasure last week, take on Time. If you did Time, take on Treasure. If you did Talent, pick either one. Spend 25 minutes before Thursday night."*
 
 ### Worksheet: Sprint 2 Actions
 
@@ -45,15 +46,15 @@ Week 4: In-Person Weekend Retreat (Friday Night Reset & Saturday Sessions)
 2. **Audit:** Open your calendar. Map out the next 7 days in rough 3-hour blocks (Morning, Afternoon, Evening).
 3. **Action ("Light the Candle"):**
    - Identify **one 2-hour window** of your upcoming weekend that normally slips into passive doom-scrolling or TV.
-   - Designate this as a **"Digital Sabbath & Rest Block"**.
-   - Tell a friend or put your phone in another room during that block.
+   - Ask yourself, and pray about it: *what would real rest look like for me in that window?* It might be worship, unhurried time with people, being outdoors, sleep, or simply stopping.
+   - Plan that rest into the window. If it helps, put your phone in another room or tell a friend what you're doing.
 4. **Group Chat Ping:** Post one sentence in the cohort thread: *"Completed Time Sprint: Reclaimed [X] hours for rest this weekend."*
 
 #### If doing TREASURE this week (25 min): "The Outflow Triage"
 1. **Predict:** What percentage of your take-home pay went to living essentials vs. discretionary spending last month? (Guess: ____%)
 2. **Audit:** Pull your last paycheck amount and compare it to last month's rent + groceries + utilities.
 3. **Action ("Light the Candle"):**
-   - Identify **one immediate financial move**: e.g., move \$50 into an emergency fund, give \$25 to a brother in need or ministry, or cancel one unneeded membership.
+   - Identify **one immediate financial move**: e.g., move \$50 into an emergency fund, give \$25 to someone in need or a ministry, or cancel one unneeded membership.
 4. **Group Chat Ping:** Post one sentence in the cohort thread: *"Completed Treasure Sprint: Diverted $[X] from leakage to purpose."*
 
 #### If doing TALENT this week (25 min): "The Workplace Kingdom Audit"
@@ -91,7 +92,8 @@ NAME: _____________________________       DATE: _______________________________
    • My Average Weekly Screen Time: ______ hours/week
    • My Current Available Discretionary Margin: roughly ______ hours/week
    • My Biggest Time Wasters: __________________________________________________
-   • Does my week currently have an intentional Sabbath/Rest rhythm? [ YES / NO ]
+   • When did I last fully stop and rest? ____________________________________
+   • What does rest actually look like for me right now? ________________________
 
 2. TREASURE BASELINE
    • Last Month's Estimated Discretionary/Leak Spending: $______
@@ -112,6 +114,6 @@ NAME: _____________________________       DATE: _______________________________
 
 ## Why This Works (Instructional Rationale)
 
-1. **Zero Cold Starts on Friday Night:** When the men sit down on Friday evening, nobody has to imagine their life or scramble for numbers. Every man is holding his own **3-T Baseline Dossier**.
-2. **Embodied Reality ("Candles Lit"):** The men have already saved money, reclaimed calendar hours, and prayed for co-workers. They aren't asking *"Can I do this?"*—they have already begun doing it.
-3. **Peer Social Proof:** The lightweight group chat pings during Weeks 2 and 3 build camaraderie. By Friday night, they aren't walking into a room of strangers; they are walking into a room of brothers who have been running the same drills.
+1. **Zero Cold Starts on Friday Night:** When the group sits down on Friday evening, nobody has to imagine their life or scramble for numbers. Everyone is holding their own **3-T Baseline Dossier**.
+2. **Embodied Reality ("Candles Lit"):** Participants have already saved money, reclaimed calendar hours, and prayed for co-workers. They aren't asking *"Can I do this?"*—they have already begun doing it.
+3. **Peer Social Proof:** The lightweight group chat pings during Weeks 2 and 3 build camaraderie. By Friday night, they aren't walking into a room of strangers; they are walking into a room of people who have been running the same drills.
