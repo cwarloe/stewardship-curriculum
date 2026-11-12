@@ -15,7 +15,8 @@ curriculum/        # session guides, participant worksheets, and onboarding tool
 outline/           # the original Act I–III mind map (draft, predates the seminar format)
 research/          # protocol, evidence index, research records
 source-material/   # the author's original writing, kept verbatim
-scripts/           # repo checks CI runs (links, evidence index)
+docs/              # web pages (the BBP outline); colors and fonts in docs/tokens.css (docs/THEMING.md)
+scripts/           # repo checks CI runs (links, evidence index, theme)
 .github/ISSUE_TEMPLATE/  # issue templates: lesson requests and bug/typo reports
 ```
 
@@ -26,4 +27,4 @@ Active curriculum drafting. Onboarding, qualification model, and pre-retreat run
 ## Notes
 
 - File a lesson idea or a typo through the issue templates in `.github/ISSUE_TEMPLATE/`.
-- CI checks that local Markdown links and `#anchors` resolve, and that `research/EVIDENCE_INDEX.md` has one row per research record with a matching link and status. Run `python3 scripts/check_links.py` and `python3 scripts/check_evidence_index.py` locally before pushing.
+- CI checks that local Markdown links and `#anchors` resolve, and that `research/EVIDENCE_INDEX.md` has one row per research record with a matching link and status. Run `python3 scripts/check_links.py`, `python3 scripts/check_evidence_index.py` and `python3 scripts/check_theme.py` locally before pushing.

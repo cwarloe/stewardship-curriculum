@@ -1,0 +1,20 @@
+/* Stewardship Curriculum design tokens: the ONE place the web pages' colors and fonts are written down.
+   Pages use var(--token), never a raw value. Change a value here and every page follows.
+   Rule and how-to: docs/THEMING.md. Checked by scripts/check_theme.py (runs in CI).
+
+   Names say what a color is FOR (--accent, --paper, --ink), not what it looks like.
+   Palettes are attributes: <body data-theme="blue|green|orange|purple|gray">. Blue is the default.
+     --paper page and plain cells      --ink body text            --on-accent text on --accent
+     --accent strong (bars, border)    --accent-mid key idea cells
+     --accent-soft section headers     --accent-faint explanation cells
+     --accent-ink text on the tints    --line cell borders        --font-print body font */
+
+:root, [data-theme] {
+  --paper: #ffffff; --ink: #1b1b1b; --on-accent: #ffffff;
+  --font-print: Arial, sans-serif;
+  --accent: #1f5f9e; --accent-mid: #bcd4ec; --accent-soft: #dce9f6; --accent-faint: #eef4fa; --accent-ink: #12365c; --line: #8fb0d1;
+}
+[data-theme="green"]  { --accent: #2e7d4f; --accent-mid: #bfe0cc; --accent-soft: #dcefe3; --accent-faint: #eff7f2; --accent-ink: #17482c; --line: #93c1a5; }
+[data-theme="orange"] { --accent: #c25e12; --accent-mid: #f5d2b0; --accent-soft: #fbe6d2; --accent-faint: #fdf3ea; --accent-ink: #6b3207; --line: #e0b48a; }
+[data-theme="purple"] { --accent: #6b46a8; --accent-mid: #d9cbee; --accent-soft: #e8dff6; --accent-faint: #f5f0fb; --accent-ink: #3a2266; --line: #b9a4dc; }
+[data-theme="gray"]   { --accent: #4a4f57; --accent-mid: #d0d3d8; --accent-soft: #e4e6e9; --accent-faint: #f3f4f5; --accent-ink: #23262b; --line: #a5a9b0; }

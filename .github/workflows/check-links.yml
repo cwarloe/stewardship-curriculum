@@ -18,3 +18,4 @@ jobs:
           python-version: "3.12"
       - run: python3 scripts/check_links.py
       - run: python3 scripts/check_evidence_index.py
+      - run: python3 scripts/check_theme.py

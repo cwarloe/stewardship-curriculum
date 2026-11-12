@@ -3,26 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <title>BBP Outline - Stewardship: Living as God's Stewards</title>
+  <!-- Colors and fonts: tokens.css. Switch palettes with <body data-theme="blue|green|orange|purple|gray">. -->
+  <link rel="stylesheet" href="tokens.css">
   <style>
-    /* Theme: blue is the default. Switch with <body data-theme="green|orange|purple|gray"> */
-    :root {
-      --accent: #1f5f9e;        /* strong: act bars, outer border */
-      --accent-mid: #bcd4ec;    /* key idea cells */
-      --accent-soft: #dce9f6;   /* section headers */
-      --accent-faint: #eef4fa;  /* explanation cells */
-      --accent-ink: #12365c;    /* text on tints */
-      --line: #8fb0d1;
-    }
-    body[data-theme="green"]  { --accent:#2e7d4f; --accent-mid:#bfe0cc; --accent-soft:#dcefe3; --accent-faint:#eff7f2; --accent-ink:#17482c; --line:#93c1a5; }
-    body[data-theme="orange"] { --accent:#c25e12; --accent-mid:#f5d2b0; --accent-soft:#fbe6d2; --accent-faint:#fdf3ea; --accent-ink:#6b3207; --line:#e0b48a; }
-    body[data-theme="purple"] { --accent:#6b46a8; --accent-mid:#d9cbee; --accent-soft:#e8dff6; --accent-faint:#f5f0fb; --accent-ink:#3a2266; --line:#b9a4dc; }
-    body[data-theme="gray"]   { --accent:#4a4f57; --accent-mid:#d0d3d8; --accent-soft:#e4e6e9; --accent-faint:#f3f4f5; --accent-ink:#23262b; --line:#a5a9b0; }
-
     body {
-      font-family: Arial, sans-serif;
+      font-family: var(--font-print);
       margin: 20px;
-      background-color: white;
-      color: #1b1b1b;
+      background-color: var(--paper);
+      color: var(--ink);
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
     }
@@ -53,7 +41,7 @@
 
     .act-header {
       background-color: var(--accent);
-      color: #fff;
+      color: var(--on-accent);
       font-weight: bold;
       font-size: 12pt;
       text-align: center;
@@ -72,7 +60,7 @@
     }
 
     .transition-cell {
-      background-color: #fff;
+      background-color: var(--paper);
     }
 
     .footer-text {

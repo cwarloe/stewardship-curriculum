@@ -23,6 +23,7 @@ Tag assertions in design docs: `[AUTHOR]` (the author stated it) / `[DRAFT]` (wr
 - **Every story or illustration carries a point, or it comes out.** Seductive details reduce learning while making material feel better. (From NADF's training-design skill.)
 - **Worked example, guided practice, the person's own work.** A case study shows the move, discussion practices it, and the person's own plan is the evidence.
 - **Principles and practices, not requirements** ([ADR-009](DECISIONS.md#adr-009--principles-and-practices-not-requirements)). Invite people to examine their own lives, read, think, and pray, then choose their own practice. No quotas, such as a set number of hours or a fixed percentage.
+- **Web pages take their look from `docs/tokens.css`.** Colors and fonts are `var(--name)`; see [`docs/THEMING.md`](docs/THEMING.md). `scripts/check_theme.py` runs in CI.
 - **Don't add process.** No review gates or registers nobody will run. Put a lesson where the next person will trip over it.
 
 ## Research workflow
